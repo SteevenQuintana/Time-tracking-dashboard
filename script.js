@@ -54,13 +54,14 @@ const drawElements = (info) => {
     activitySection.insertAdjacentHTML("beforeend", html);
   });
 };
+drawElements(weeklyInfo);
+weeklyBtn.setAttribute("class", "main-card__frecuency--active");
 
 dailyBtn.addEventListener("click", () => {
   drawElements(dailyInfo);
   dailyBtn.setAttribute("class", "main-card__frecuency--active");
   weeklyBtn.setAttribute("class", "main-card__frecuency");
   monthlyBtn.setAttribute("class", "main-card__frecuency");
-  console.log(dailyBtn.getAttribute("class"));
   //   ("main-card__frecuency--active");
 });
 
