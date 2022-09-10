@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://steevenquintana.github.io/Time-tracking-dashboard/)
-- Live Site URL: [Add live site URL here](https://steevenquintana.github.io/Time-tracking-dashboard/)
+- Solution URL: [https://github.com/SteevenQuintana/Time-tracking-dashboard](https://github.com/SteevenQuintana/Time-tracking-dashboard)
+- Live Site URL: [https://steevenquintana.github.io/Time-tracking-dashboard/](https://steevenquintana.github.io/Time-tracking-dashboard/)
 
 ## My process
 
